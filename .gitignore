@@ -1,0 +1,10 @@
+syntax: glob
+*.lock
+*.orig
+*.rej
+*.~
+
+nbproject/*
+
+syntax: regexp
+\~$
